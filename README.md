@@ -55,7 +55,7 @@ Where:
 Clone this repository and install dependencies:
 
 ```bash
-git clone https://github.com/alexduartehc/portfolio-optimization.git
+git clone https://github.com/alexduartehc/Portfolio-Optimization.git
 cd portfolio-optimization
 pip install -r requirements.txt
 
