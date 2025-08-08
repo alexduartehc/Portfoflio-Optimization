@@ -56,6 +56,7 @@ Clone this repository and install dependencies:
 
 ```bash
 git clone https://github.com/alexduartehc/Portfolio-Optimization.git
-cd portfolio-optimization
+cd Portfolio-Optimization
 pip install -r requirements.txt
+jupyter notebook portfolio-opt.ipynb
 
