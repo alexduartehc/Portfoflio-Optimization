@@ -32,12 +32,15 @@ This combination provides a diversified portfolio with exposure to equities, bon
 $$
 \text{Sharpe Ratio} = \frac{E[R_p] - R_f}{\sigma_p}
 $$
-         
+
+
 Where:
          
-- \( E[R_p] \) = Expected portfolio return
+- \( $$E[R_p]$$ \) = Expected portfolio return
 - \( R_f \) = Risk-free rate (assumed 2%)  
 - \( \sigma_p \) = Portfolio volatility
+
+  
 
 4. **Optimization**  
    - Objective: **Maximize Sharpe Ratio**  
