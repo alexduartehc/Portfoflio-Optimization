@@ -27,17 +27,17 @@ This combination provides a diversified portfolio with exposure to equities, bon
    - **Portfolio volatility (standard deviation)**  
    - **Sharpe ratio** (with an assumed 2% annual risk-free rate)
 
-         **Sharpe Ratio Formula**
+**Sharpe Ratio Formula**
          
-         $$
-         \text{Sharpe Ratio} = \frac{E[R_p] - R_f}{\sigma_p}
-         $$
+$$
+\text{Sharpe Ratio} = \frac{E[R_p] - R_f}{\sigma_p}
+$$
          
-         Where:
+Where:
          
-         - \( E[R_p] \) = Expected portfolio return  
-         - \( R_f \) = Risk-free rate (assumed 2%)  
-         - \( \sigma_p \) = Portfolio volatility
+- \( E[R_p] \) = Expected portfolio return
+- \( R_f \) = Risk-free rate (assumed 2%)  
+- \( \sigma_p \) = Portfolio volatility
 
 4. **Optimization**  
    - Objective: **Maximize Sharpe Ratio**  
