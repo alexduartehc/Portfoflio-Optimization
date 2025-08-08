@@ -37,8 +37,8 @@ $$
 Where:
          
 - \( $$E[R_p]$$ \) = Expected portfolio return
-- \( R_f \) = Risk-free rate (assumed 2%)  
-- \( \sigma_p \) = Portfolio volatility
+- \( $$R_f$$ \) = Risk-free rate (assumed 2%)  
+- \( $$\sigma_p$$ \) = Portfolio volatility
 
   
 
